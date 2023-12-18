@@ -5,7 +5,7 @@
 This project consists of designing a network, with a network topology and detailed structure. View the Word document under file section with screenshots and the step by step process, you may need to click on "View Raw" to view the document. 
 <br />
 
--[Screenshots and step by step process]( 
+-[Screenshots and step by step process](https://github.com/SulliZ/Network-Design-Project/blob/main/ZadranSaliman_NetworkDesignProject%20(2).docx) 
 
 <!--
  ```diff
